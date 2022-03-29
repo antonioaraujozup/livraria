@@ -1,4 +1,4 @@
-package br.com.zup.edu.livraria.api.repository.model;
+package br.com.zup.edu.livraria.api.model;
 
 import javax.persistence.*;
 import java.time.LocalDate;

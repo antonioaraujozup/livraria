@@ -1,6 +1,6 @@
 package br.com.zup.edu.livraria.api.controller;
 
-import br.com.zup.edu.livraria.api.repository.model.Livro;
+import br.com.zup.edu.livraria.api.model.Livro;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import org.hibernate.validator.constraints.ISBN;
 
