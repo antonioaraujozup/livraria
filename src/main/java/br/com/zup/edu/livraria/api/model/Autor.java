@@ -29,10 +29,10 @@ public class Autor {
         this.cpf = cpf;
     }
 
-    @Deprecated
     /**
      * @deprecated Construtor exclusivo para uso do Hibernate.
      */
+    @Deprecated
     public Autor() {
     }
 

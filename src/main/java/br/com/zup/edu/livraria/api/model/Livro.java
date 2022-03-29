@@ -28,10 +28,10 @@ public class Livro {
         this.isbn = isbn;
     }
 
-    @Deprecated
     /**
      * @deprecated Construtor para uso exclusivo do Hibernate.
      */
+    @Deprecated
     public Livro() {
     }
 
