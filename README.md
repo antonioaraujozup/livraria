@@ -1,6 +1,6 @@
 # livraria
-API REST para cadastro de livros.
+API REST para cadastro de livros e autores.
 
-O objetivo deste projeto é a construção de uma API REST para cadastro de livros, utilizando stack Spring Boot, Data JPA, Validation e Web.
+O objetivo deste projeto é a construção de uma API REST para cadastro de livros e autores, utilizando stack Spring Boot, Data JPA, Validation e Web.
 
-Projeto realizado na atividade preparatória `Siga os passos e aprenda a criar cadastros básicos`, da seção `Cadastro básico` do treino `CRUD e Relacionamentos com Java, Spring Boot e JPA/Hibernate`.
+Projeto realizado na seção `Cadastro básico` do treino `CRUD e Relacionamentos com Java, Spring Boot e JPA/Hibernate`.
